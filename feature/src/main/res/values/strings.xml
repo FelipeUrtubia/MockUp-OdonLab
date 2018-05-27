@@ -1,1 +1,9 @@
-<resources></resources>
+<resources>
+    <string name="ImagenDeInicio">Imagen de Inicio</string>
+    <string name="dctitulo">Diagnosticos Clínicos Dentales</string>
+    <string name="luss">Logo Universidad San Sebastian</string>
+    <string name="cacceso">Control De Acceso</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+</resources>
