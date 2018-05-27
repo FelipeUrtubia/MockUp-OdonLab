@@ -6,4 +6,9 @@
     <string name="user">Usuario</string>
     <string name="pass">Contraseña</string>
     <string name="login">Iniciar Sesión</string>
+    <string name="tiposesion">Selecciona Tu Sesión</string>
+    <string name="noparte">No es parte del curso</string>
+    <string name="parte">Si es parte del curso</string>
+    <string name="tema">Tema</string>
+    <string name="send">Enviar</string>
 </resources>
