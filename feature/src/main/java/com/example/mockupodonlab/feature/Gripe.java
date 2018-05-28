@@ -5,21 +5,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Quiz extends AppCompatActivity {
+public class Gripe extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.quiz);
+        setContentView(R.layout.gripe);
     }
 
-    public void endQuiz (View view) {
-        Intent intent = new Intent(this, EndQuiz.class);
-        startActivity(intent);
-    }
-
-    public void iraDiagnosticos (View view) {
-        Intent intent = new Intent(this, Diagnosticos.class);
+    public void volverQuiz (View view) {
+        Intent intent =  new Intent(this, Quiz.class);
         startActivity(intent);
     }
 }

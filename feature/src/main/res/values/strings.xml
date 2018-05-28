@@ -27,4 +27,8 @@
     <string name="recuerda">Recuerda que tambien pudo haber sido:</string>
     <string name="respu1">Gripo, Lesión o Virus</string>
     <string name="exit">Salir De La Sesión</string>
+    <string name="filtro">Filtrar Por Nombre</string>
+    <string name="buscar">Buscar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel risus et diam dictum tempor sed a libero. Mauris gravida tortor dignissim faucibus pharetra. Cras sit amet dui justo. Etiam dapibus tristique efficitur. Sed eget quam enim. Praesent tempor felis vitae felis blandit cursus. Vivamus efficitur neque diam, vitae euismod dui sagittis ut. Donec aliquam pharetra ligula. Aliquam elementum risus risus, a molestie magna porttitor ac. Nam posuere quis sem quis laoreet. Sed vestibulum justo sed luctus convallis. Aenean non quam ac massa sollicitudin imperdiet. Suspendisse potenti. Etiam pellentesque massa sed dui pulvinar, eu mattis sapien volutpat.</string>
+    <string name="back">Volver Al Quiz</string>
 </resources>
