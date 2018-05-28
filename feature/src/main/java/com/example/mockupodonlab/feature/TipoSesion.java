@@ -5,16 +5,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class PantallaDeInicio extends AppCompatActivity {
+public class TipoSesion extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.pantalla_de_inicio);
+        setContentView(R.layout.tipo_sesion);
     }
 
-    public void iniciosesion (View view) {
-        Intent intent = new Intent(this, TipoSesion.class);
+    public void inicioquiz (View view) {
+        Intent intent = new Intent(this, Quiz.class);
         startActivity(intent);
     }
 

@@ -11,4 +11,20 @@
     <string name="parte">Si es parte del curso</string>
     <string name="tema">Tema</string>
     <string name="send">Enviar</string>
+    <string name="quiztitulo">Quiz</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="quetiene">¿Que Tendra El Paciente?</string>
+    <string name="terminar">Terminar Quiz</string>
+    <string name="next">Siguiente</string>
+    <string name="diag">Diagnosticos</string>
+    <string name="herpes">Herpes Simplex</string>
+    <string name="cold">Resfrio</string>
+    <string name="gripe">Gripe</string>
+    <string name="jaqueca">Jaqueca</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="respu">Respuestas</string>
+    <string name="respucorrecta">Respuesta Correcta!</string>
+    <string name="recuerda">Recuerda que tambien pudo haber sido:</string>
+    <string name="respu1">Gripo, Lesión o Virus</string>
+    <string name="exit">Salir De La Sesión</string>
 </resources>
